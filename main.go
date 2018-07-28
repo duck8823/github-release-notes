@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/buchanae/github-release-notes/ghrn"
+	"github.com/duck8823/github-release-notes/ghrn"
 )
 
 func main() {
